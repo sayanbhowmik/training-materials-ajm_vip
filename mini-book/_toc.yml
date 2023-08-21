@@ -4,6 +4,7 @@ parts:
   - caption: VIP
     chapters:
     - file: docs/VIP_Info
+    sections:
     - file: docs/VIP_syllabus
     - file: docs/VIP_Overview
   - caption: Training Materials
