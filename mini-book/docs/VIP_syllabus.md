@@ -280,9 +280,9 @@ Week 5 (9/20): Intro to ASE (Brabson)
 
 Week 6 (9/27): Intro to Density Functional Theory (Brabson)
 
-Week 7 (10/4): DFT calculations and applications (Brabson)
+Week 7 (10/4): Midterm Updates (pre-recorded presentations, virtual synchronous Q&A)
 
-Week 8 (10/11): Midterm Updates (pre-recorded presentations, virtual synchronous Q&A)
+Week 8 (10/11): DFT calculations and applications (Brabson)
 
 Week 9 (10/18): Machine Learning Part I - Regression (Brabson)
 

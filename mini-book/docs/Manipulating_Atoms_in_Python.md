@@ -1,3 +1,4 @@
+(manipulating-atoms)=
 # Introduction to Manipulating Atoms in Python
 
 ## Introduction
