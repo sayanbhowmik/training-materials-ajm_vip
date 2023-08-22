@@ -114,7 +114,7 @@ submission of assignments:
 -   Slack: The group Slack channel is the preferred method of
     communication with instructors and graduate students. You are
     responsible for anything that is announced in the `vip`
-    Slack channel. You can join the Slack channel via [this link]([https://join.slack.com/t/medfordgroup/shared_invite/zt-uj1pt7d3-TTF9QNEkhfmRELNy7lM3oA](https://join.slack.com/t/slack-ymv5720/shared_invite/zt-21v1xmbap-5FQMR2rgE0B5krwMZPFyBQ).
+    Slack channel. You can join the Slack channel via [this link]( https://join.slack.com/t/slack-ymv5720/shared_invite/zt-21v1xmbap-5FQMR2rgE0B5krwMZPFyBQ ).
 
 Course Objectives
 =================
@@ -270,29 +270,29 @@ Training Schedule *(all synchronous)*
 
 Week 1 (8/23): Introduction to VIP and projects (Medford)
 
-Week 2 (8/30): Overview of literature searches (Medford/Timmerman/Brabson/Sahoo)
+Week 2 (8/30): VIP Subteam pitches (Medford/Timmerman/Brabson/Sahoo)
 
-Week 3 (9/6): Intro to Python (Brabson)
+Week 3 (9/6): Literature searches (Medford)
 
-Week 4 (9/13): Intro to ASE and HPC (Brabson)
+Week 4 (9/13): Intro to Python and HPC (Brabson)
 
-Week 5 (9/20): Intro to Density Functional Theory (Brabson)
+Week 5 (9/20): Intro to ASE (Brabson)
 
-Week 6 (9/27): DFT calculations and applications (Brabson)
+Week 6 (9/27): Intro to Density Functional Theory (Brabson)
 
-Week 7 (10/4): Machine learning basics (Brabson)
+Week 7 (10/4): DFT calculations and applications (Brabson)
 
 Week 8 (10/11): Midterm Updates (pre-recorded presentations, virtual synchronous Q&A)
 
-Week 9 (10/18): Projects (Timmerman/Yu)
+Week 9 (10/18): Machine Learning Part I - Regression (Brabson)
 
-Week 10 (10/25): Projects (Timmerman/Yu)
+Week 10 (10/25): Machine Learning Part II - Classification (Brabson)
 
-Week 11 (11/1): Projects (Timmerman/Yu)
+Week 11 (11/1): Projects (Timmerman/Yu/Sahoo)
 
-Week 12 (11/8): Projects (Timmerman/Yu)
+Week 12 (11/8): Projects (Timmerman/Yu/Sahoo)
 
-Week 13 (11/15): Projects (Timmerman/Yu)
+Week 13 (11/15): Projects (Timmerman/Yu/Sahoo)
 
 Week 14 (11/22): Thanksgiving Break
 
