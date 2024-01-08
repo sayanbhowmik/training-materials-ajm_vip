@@ -74,20 +74,7 @@ developed by graduate students in the Medford group:
     several numerical parameters. The training will cover approximately 10 weeks and is
     highly represnetative of training programs for new graduate students in this field.
 
--   Machine Learning for Catalysis (led by Lucas Timmerman): This sub-team will have two thrusts:
-    i.) developing large language models (LLM) for catalysis and ii.) creating an integrated and 
-    portable platform for training neural networks (NNs) using python based autodifferentiation
-    capabilities. Thrust i.) is more open ended and will involve fine tuning existing, open-source GPT models
-    to predict catalyst properties, active sites, synthetic pathways etc. Students will have the opportunity
-    to gain hands on experience developing LLMs, GPU programming expertise, and conceptual understanding of 
-    problems in the heterogeneous catalysis community. The second thrust will be more focused on
-    software engineering. There are several freely available autodifferentiation (or autograd) softwares
-    (pyTorch, TensorFlow, JAX) that can be utilized for developing NNs in a portable, lightweight, and 
-    highly customizable format. Students will gain hands on experience working with SOTA ML tools 
-    and algorithms, as well as extensive experience developing sicentific pacakges in Python. No prior
-    programming or catalysis experience is required to take on these projects, simply a willingness to
-    learn and be challenged. I am seeking students who are eager to learn new skills/concepts and work
-    collaboratively on "bleedng" edge science.
+-   Terminus Upgrade (led by Lucas Timmerman): This semester, my team will focus on upgrading the Medford Group computational infrastructure. The group's server, Terminus, is in desperate need of a revamp. The plan is to identify an ideal Linux based operating system to install for facilitating the group's research operations. Once finiished, the team will turn to focusing on installing and learning the Computational Catalysis Interface (CCI) developed by the Hibbits lab which will enable us to further diversify the group's computatinal resources. Finally, we will experiment with the new file storage system, CEDAR, for use in io operations across clusters. 
 
 -   DFT Modeling of Surface Reactions (led by Neung-Kyung Yu):  This project involves using Density Functional Theory (DFT) to model and investigate surface reactions. DFT is a widely-used computational approach for simulating atomistic models. The project will employ the [SPARC code](https://www.sparc-x.com/), a recent DFT package developed by Prof. Suryanarayana at Georgia Tech, designed for massive parallel calculations. In this project, we will go beyond the scope of the DFT training materials and apply DFT to study fascinating surface reactions. Prior knowledge of the topics isn't required, but an interest in computational investigation of chemical reactions is needed as the project will involve greater complexity in both DFT and chemistry. Additionally, the project will involve testing new features in SPARC and enhancing its Python API.
 
