@@ -255,35 +255,35 @@ The project groups will use the course time to meet and discuss progress on proj
 Training Schedule *(all synchronous)*
 ========
 
-Week 1 (8/23): Introduction to VIP and projects (Medford)
+Week 1 (1/10): Introduction to VIP and projects (Medford)
 
-Week 2 (8/30): VIP Subteam pitches (Medford/Timmerman/Brabson/Sahoo)
+Week 2 (1/17): VIP Subteam pitches (Medford/Timmerman/Yu/Sahoo/Tian)
 
-Week 3 (9/6): Literature searches (Medford)
+Week 3 (1/24): Literature searches (Medford) - Bi-weekly Update 1
 
-Week 4 (9/13): Intro to Python and HPC (Brabson)
+Week 4 (1/31): Intro to Python and HPC (Brabson)
 
-Week 5 (9/20): Intro to ASE (Brabson)
+Week 5 (2/7): Intro to ASE (Brabson) - Bi-weekly Update 2 (Ex. 1.6.1-1.6.5)
 
-Week 6 (9/27): Intro to Density Functional Theory (Brabson)
+Week 6 (2/14): Software check (Brabson)
 
-Week 7 (10/4): Midterm Updates (pre-recorded presentations, virtual synchronous Q&A)
+Week 7 (2/21): Midterm Updates (pre-recorded presentations, virtual synchronous Q&A) - Bi-weekly Update 3 (Ex. 2.5.1 & 3.3.1-3.3.4)
 
-Week 8 (10/11): DFT calculations and applications (Brabson)
+Week 8 (2/28): Intro to Density Functional Theory (Medford/Brabson)
 
-Week 9 (10/18): Machine Learning Part I - Regression (Brabson)
+Week 9 (3/6): DFT calculations and applications (Brabson) - Bi-weekly Update 4
 
-Week 10 (10/25): Machine Learning Part II - Classification (Brabson)
+Week 10 (3/13): Machine Learning Basics (Brabson)
 
-Week 11 (11/1): Projects (Timmerman/Yu/Sahoo)
+Week 11 (3/20): Spring Break
 
-Week 12 (11/8): Projects (Timmerman/Yu/Sahoo)
+Week 12 (3/27): Projects (Timmerman/Yu/Sahoo/Tian) - Bi-weekly Update 5 (Ex. 5.4.1-5.4.3 & 6.4.1)
 
-Week 13 (11/15): Projects (Timmerman/Yu/Sahoo)
+Week 13 (4/3): Projects (Timmerman/Yu/Sahoo/Tian)
 
-Week 14 (11/22): Thanksgiving Break
+Week 14 (4/10): Projects (Timmerman/Yu/Sahoo/Tian) - Bi-weekly Update 6 (Ex. 6.4.2 & 7.3.1-7.3.3)
 
-Week 15 (11/29): Final Updates (pre-recorded presentations, virtual synchronous Q&A)
+Week 15 (4/17): Final Updates (pre-recorded presentations, virtual synchronous Q&A)
 
 Changes to Syllabus
 ===================
