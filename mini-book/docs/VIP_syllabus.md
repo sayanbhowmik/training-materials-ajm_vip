@@ -279,11 +279,11 @@ Week 10 (3/13): Machine Learning Basics (Brabson)
 
 Week 11 (3/20): Spring Break
 
-Week 12 (3/27): Projects (Timmerman/Yu/Sahoo/Tian) - Bi-weekly Update 5 (Ex. 5.4.1-5.4.3 & 6.4.1)
+Week 12 (3/27): Projects (Timmerman/Yu/Sahoo/Tian) - Bi-weekly Update 5 (Ex. 5.4.1-5.4.2 & 6.6.1)
 
 Week 13 (4/3): Projects (Timmerman/Yu/Sahoo/Tian)
 
-Week 14 (4/10): Projects (Timmerman/Yu/Sahoo/Tian) - Bi-weekly Update 6 (Ex. 6.4.2 & 7.3.1-7.3.3)
+Week 14 (4/10): Projects (Timmerman/Yu/Sahoo/Tian) - Bi-weekly Update 6 (Ex. 6.6.3 & 7.7.1-7.7.3)
 
 Week 15 (4/17): Final Updates (pre-recorded presentations, virtual synchronous Q&A)
 
