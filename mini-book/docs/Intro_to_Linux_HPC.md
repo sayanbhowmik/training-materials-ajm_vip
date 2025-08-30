@@ -102,3 +102,7 @@ if `pwd` shows `/Users/thing` what will `ls -F ../backup` display
 ![alt text](https://ucdavis-bioinformatics-training.github.io/2017-June-RNA-Seq-Workshop/monday/cluster_diagram.png "Cluster Supercomputer Structure")
 * If you want to learn more about PACE-ICE works, you can visit [PACE-ICE]{https://pace.gatech.edu/pace-ice-instructional-cluster-environment-education}. 
 
+## Lectures
+The link to the corresponding lectures (by Brabson) are as follows:
+1. https://mediaspace.gatech.edu/media/VIP-BDQM-L02a-Intro_to_Linux_Computing/1_kb78m0hg 
+2. https://mediaspace.gatech.edu/media/VIP-BDQM-L02d-slurm_bash_scripting/1_hqyzso1y 
